@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{text-align: center;
+    color: blue;
+    background-color: lightblue;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif}
+img{width: 150px;
+   border-radius: 15px}
